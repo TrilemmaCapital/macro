@@ -1,4 +1,4 @@
-# Macro Frameworks
+# Macro Frameworks (Work In Progress)
 
 Macro Frameworks is a collection of Jupyter Notebooks designed for macroeconomic analysis. 
 

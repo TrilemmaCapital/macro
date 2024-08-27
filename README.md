@@ -8,7 +8,7 @@ Macro is a collection of Jupyter Notebooks designed for macroeconomic analysis.
 
 ## Contributing
 
-Contributions to Macro Frameworks are welcome! If you want to report a bug, suggest an improvement, or add a new feature, we encourage you to open a pull request or submit an issue..
+Contributions to Macro are welcome! If you want to report a bug, suggest an improvement, or add a new feature, we encourage you to open a pull request or submit an issue..
 
 ## License
 
